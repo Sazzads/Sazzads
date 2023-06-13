@@ -1,4 +1,4 @@
-![App Screenshot](https://ibb.co/JrxRmMn)
+<img src="https://i.ibb.co/r5bGF1k/cover.png" alt="Girl in a jacket" height="300">
 <h1 align="center">Hi 👋, I'm sazzad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
