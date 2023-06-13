@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/r5bGF1k/cover.png" alt="Girl in a jacket" height="300">
-<h1 align="center">Hi 👋, I'm sazzad</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="left">Sazzad</h1>
+<h3 align="left">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzads&label=Profile%20views&color=0e75b6&style=flat" alt="sazzads" /> </p>
 
