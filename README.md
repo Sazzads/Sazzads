@@ -1,4 +1,4 @@
-![App Screenshot](https://ibb.co/JrxRmMn/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://ibb.co/JrxRmMn)
 <h1 align="center">Hi 👋, I'm sazzad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
