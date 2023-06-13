@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sazzad Hossain</h1>
 <h3 align="center">A passionate React Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohantalukder&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sazzads&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad" /> </p>
 
 - 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://xxxxx.xxx](https://xxxx.xxxx)
+- 👨‍💻 All of my projects are available at [https://pppp.ppp](https://xxxx.xxxx)
 
 - 📫 How to reach me **sazzadtk@gmail.com**
 
-- 📄 Know about my experiences [https://xx.xxx](https:xxx.xxxx)
+- 📄 Know about my experiences [https://pppp.pppp](https:xxx.xxxx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
